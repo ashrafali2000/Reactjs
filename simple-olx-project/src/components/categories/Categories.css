@@ -1,0 +1,19 @@
+.link{
+    background-color: black;
+    color: #cac3c3;
+    padding: 15px 45px;
+    font-weight: 900;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: 1s ease-out;
+    border: 5px solid aqua;
+}
+.link:hover{
+    background-color: rgb(235, 120, 120);
+    color: #000000;
+}
+.categories{
+    /* text-align: center; */
+    display: inline;
+}
