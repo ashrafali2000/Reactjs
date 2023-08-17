@@ -19,6 +19,7 @@ function App() {
   }
   const showProducts = () => {
     setProduct(true)
+    checkAccount1(false)
   }
   return (
     <div className="App">
