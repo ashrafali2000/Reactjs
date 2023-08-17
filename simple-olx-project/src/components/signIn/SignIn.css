@@ -1,0 +1,16 @@
+form{
+    padding: 20px;
+    background-color: rgb(250, 242, 226);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 90vh;
+    gap: 20px;
+}
+label , input {
+    width: 400px;
+    height: 30px;
+}
