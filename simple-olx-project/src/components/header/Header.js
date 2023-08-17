@@ -3,12 +3,12 @@ import Links from "../links/Links";
 import Navbar from "../navbar/Navbar";
 import ProductFeature from "../productFeatures/ProductsFeature";
 import "./Header.css";
-export default function Header({setAccount}) {
+export default function Header({setAccount,setSignAccount}) {
     return (
         <div>
             {/* Header */}
         <div className="Header">
-            <Navbar setAccount = {setAccount}></Navbar>
+            <Navbar setAccount = {setAccount} setSignAccount={setSignAccount}></Navbar>
         </div>
         {/* Products-Features */}
         <br></br>
