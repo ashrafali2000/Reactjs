@@ -1,0 +1,15 @@
+.Header {
+    background-image: url("https://thumbs.dreamstime.com/b/couple-dealer-selling-cars-look-car-showroom-happy-buying-rental-165804332.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    max-width: 100%;
+}
+.Header-Heading{
+/* text-align: center; */
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+}
