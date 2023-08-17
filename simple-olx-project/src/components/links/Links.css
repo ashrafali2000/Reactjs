@@ -1,0 +1,16 @@
+.Links{
+    background-color: rgb(44, 44, 237);
+    color: #fff;
+    font-weight: 800;
+    font-size: 20px;
+    padding: 12px 23px;
+    border-radius: 20px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.link-container{
+    /* text-align: center; */
+    display: inline;
+}
