@@ -1,7 +1,7 @@
 // import fs from "fs";
 // import path from "path";
 // const filePath = path.join(process.cwd(), "public", "database.json" );
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "./SignUp.css"
 import { useRef } from "react"
 export default function SignUp (){
