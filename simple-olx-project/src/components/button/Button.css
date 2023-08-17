@@ -1,0 +1,18 @@
+.btn{
+    background-color: green;
+    color: #faf5f5;
+    padding: 12px 30px;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color: rgb(128, 239, 128);
+    color: #000000;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: inline-block;
+}
